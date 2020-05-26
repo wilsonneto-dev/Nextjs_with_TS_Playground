@@ -1,0 +1,1 @@
+getStaticProps -> runs on build
