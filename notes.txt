@@ -1,1 +1,2 @@
 getStaticProps -> runs on build
+"start": "next start -p $PORT"
